@@ -1,0 +1,8 @@
+.bg-theme{
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.img-preview{
+  height: 350px;
+}
